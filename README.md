@@ -1,1 +1,3 @@
 ### ⛑️ LazuryNPC
+
+## Synopsis

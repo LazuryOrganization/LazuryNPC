@@ -9,12 +9,12 @@
 >  If you need some help, please contact the Lazury Support
 
 > If you have questions about this plugin, come to the Support
-
-## ☄️ Author & Developpers
+###
+### ☄️ Author & Developpers
 
 - The author of this plugin is Lazury, but the creator is SYRQL.
 
-## 🔰 Librairies
+### 🔰 Librairies
 
 - To use this plugin, you just need to have paperspigot on your server. You can use with what paperspigot you want. Enjoy
 

@@ -1,1 +1,1 @@
-# LazuryNPC
+### ⛑️ LazuryNPC

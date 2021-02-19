@@ -28,4 +28,8 @@
 
 ### 🎮 Using of the Plugin
 
-- > Staff Command
+You need to have the OP permission to execute the commands.
+
+- Commands: 
+- /npcstaff ✈️ Give a stick to remove NPC from the plugin & the world 
+- /npcspawn <name> 🌐 Add a new NPC on your server very easily

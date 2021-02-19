@@ -25,3 +25,7 @@
 ### ⛔ Prohibitions
 
 - You are prohibited from reselling the plugin
+
+### 🎮 Using of the Plugin
+
+- > Staff Command

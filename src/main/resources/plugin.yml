@@ -1,0 +1,6 @@
+name: LazuryNPC
+version: 1.0
+author: SYRQL
+main: fr.syrql.lazury.NPCPlugin
+commands:
+  npcspawn:

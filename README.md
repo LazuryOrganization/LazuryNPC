@@ -1,6 +1,6 @@
 # ⛑️ LazuryNPC
 
-## 🧭 Synopsis
+### 🧭 Synopsis
 
 > This plugin is a part of the Lazury server.
 

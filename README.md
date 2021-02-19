@@ -26,6 +26,12 @@
 
 - You are prohibited from reselling the plugin
 
+### 🆗 Rights
+
+- You can if you want fork this plugin (add extensible way to use NPC's)
+- Share the plugin with your friends for free
+- Add a star to the project 😎
+
 ### 🎮 Using of the Plugin
 
 You need to have the OP permission to execute the commands.
